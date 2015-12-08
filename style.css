@@ -1,0 +1,99 @@
+.nav, .pagination, .carousel, .panel-title a { cursor: pointer; }
+
+
+.angular-google-map-container {
+	height: 200px;
+	margin: 20px;
+}
+
+.tab-content > * {
+	margin-top: 10px;
+}
+
+.tab-content .btn {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.navbar-brand {
+	padding: 5px 5px;
+}
+.navbar .btn {
+	margin-top: 7px;
+}
+
+.navbar .dropdownIcon {
+	padding: 15px;
+}
+
+.navbar .dropdownIcon a {
+	color: Black;
+}
+
+body {
+  padding-top: 70px;
+}
+
+.carousel .item {
+	height: 500px;
+	min-height: 100%;
+}
+
+.carousel img {
+	top: 0;
+	left: 0;
+	min-width: 100%;
+	max-height: 500px;
+}
+
+#partner {
+	text-align: center;
+}
+
+#partner img {
+	width: 150px;
+	height: auto;
+	padding-left: 3%;
+	padding-right: 3%;
+	-webkit-filter: grayscale(1);
+	filter: grayscale(1);
+}
+
+#partner img:hover {
+	-webkit-filter: grayscale(0);
+	filter: grayscale(0);
+}
+
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+.container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}
+.container .text-muted {
+  margin: 20px 0;
+}

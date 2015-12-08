@@ -1,0 +1,18 @@
+{
+  "name": "fonlla_l",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.4.7",
+    "angular-animate": "^1.4.8",
+    "angular-bootstrap": "^0.14.3",
+    "angular-google-maps": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
